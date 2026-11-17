@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest==8.4.2
+# Optional on Linux x86_64 / supported CPython versions, for genuine Lanelet2 IO checks:
+# lanelet2==1.2.2
+# Optional independent MGRS oracle:
+# mgrs==1.5.0
